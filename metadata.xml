@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Every Item Challenge, changes every floor.</name>
+    <directory>everyitemchallenge</directory>
+    <id>848225254</id>
+    <description>A challenge made with Da Rules mod. Note that items will only be changed if they were in the room when you spawned in. Use the drop key to convert other pedestals into the proper item.</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Challenges"/>
+</metadata>
